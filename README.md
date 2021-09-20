@@ -6,3 +6,4 @@
 4. Using Default parameter and Optional parameter within a Function
 5. Using Function Signatures
 6. Using Classes and access modifiers
+7. Using Interfaces, Generics and Tuples
